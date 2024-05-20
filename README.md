@@ -12,16 +12,12 @@ Responsive Design: The application is designed to be responsive and work seamles
 To get started with the Sons project, follow these steps:
 
 ### Clone the repository to your local machine:
-bash
 git clone https://github.com/Fleotte/sons.git
 ### Navigate to the project directory:
-bash
 cd sons
 ### Install all dependencies using npm:
-bash
 npm install
 ### Start the development server:
-bash
 ### npm run dev
 Open your browser and navigate to http://localhost:3000 to view the application.
 

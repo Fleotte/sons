@@ -1,6 +1,9 @@
 # Sons - A Spotify Clone
 Sons is a project aimed at creating a clone of Spotify, built using React, Tailwind CSS, Vite, and the Shazam API provided by Rapid API. This project allows users to discover music, view top charts, search for songs, and explore artists similar to Spotify's functionality.
 
+![image](https://github.com/Fleotte/sons/assets/148584408/627a3dc7-08ee-4c05-9082-2ae5769d2786)
+
+
 ## Features
 Discover Music: Explore a wide range of music genres and discover new songs.
 Top Charts: View the top charts to see trending songs and artists.
